@@ -34,7 +34,7 @@ const elements = {
   windSpeed5: document.getElementById("windSpeed5"),
 };
 
-const API_KEY = "a68487360bc4650652a89a0255c92708";
+const API_KEY = "Sorry_I_Had_To_Hide_My_Key"; //you can easily get free token i openweather website and use my source code
 const daySlots = [0, 8, 16, 24, 32];
 
 function buildUrl(city) {
